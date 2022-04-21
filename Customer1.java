@@ -6,7 +6,7 @@ public class Customer1 {
     public static void main(String[] args) {
         Customer1 objCustomer1 = new Customer1();
         objCustomer1.customerID=10022003;
-        objCustomer1.customerName="NGO QUANG DAI";
+        objCustomer1.customerName="Hoang Minh Hieu";
         objCustomer1.customerAddress="Ha Noi - Viet Nam";
         objCustomer1.customerAge=20;
         System.out.println("CustomerID:"+objCustomer1.customerID);

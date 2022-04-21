@@ -23,7 +23,7 @@ public class S26_Employee {
         System.out.println("SSN is: "+SSN);
     }
     public static void main(String[] args) {
-        S26_Employee Emp = new S26_Employee(1002,"NGO QUANG DAI");
+        S26_Employee Emp = new S26_Employee(1002,"Hoang Minh Hieu");
         Emp.empDesig="manager";
         Emp.SSN="10-02-2003";
         Emp.dispay();
